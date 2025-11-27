@@ -15,3 +15,9 @@ Author: Gustavo Miranda (Student ID: 101488574)
 
 ## API
 - Endpoint: `https://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={KEY}&units=metric`
+
+## Screenshots
+- App on Vercel: `screenshots/aplication on vercel.png`
+- GitHub repository: `screenshots/git repo.png`
+- Postman success (200): `screenshots/API resquest success.png`
+- Postman error (404): `screenshots/API resquest fail.png`
